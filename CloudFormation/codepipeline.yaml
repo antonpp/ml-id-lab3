@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: >
-  CloudFormation for Sagemaker devops.
+  CloudFormation for Sagemaker devops. Changed.
 Parameters:
   Email:
     Description: The email address where CodePipeline sends pipeline notifications
